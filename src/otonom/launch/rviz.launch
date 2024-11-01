@@ -1,0 +1,7 @@
+<launch>
+    <node name="odometry_publisher" pkg="otonom" type="otonom" output="screen"/>
+    <!-- <node name="Imu" pkg="otonom" type="Imu" output="screen"/> -->
+    
+    <node name="rviz" pkg="rviz" type="rviz" args="-d otonom/rviz_config.rviz"/>
+  </launch>
+  
