@@ -7,5 +7,4 @@ Result robot
 
 Testing robot
 
-https://github.com/user-attachments/assets/d090dd5e-ee9a-4556-9b9d-9e9b7a1b59f8
-
+https://youtu.be/nSCIOPaLdSg?si=OqjYFwL2YM-Tbtx6
